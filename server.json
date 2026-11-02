@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.thecharterdesk/yacht-charter",
+  "description": "Live yacht charter inventory: 8,527 sailboats, catamarans, motorboats, gulets and houseboats.",
+  "title": "The Charter Desk",
+  "version": "1.0.1",
+  "websiteUrl": "https://thecharterdesk.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://thecharterdesk.com/mcp"
+    }
+  ]
+}
