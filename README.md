@@ -4,7 +4,7 @@
 
 [![mcptry](https://mcptry.com/badge/com.thecharterdesk/yacht-charter)](https://mcptry.com/servers/com.thecharterdesk/yacht-charter)
 
-Live yacht charter inventory for AI assistants: 8,500+ sailboats, catamarans, motor yachts, gulets and houseboats worldwide, with live prices, real availability and deals. Ask for a boat by place, dates and group size, compare prices, and request a written quote from [The Charter Desk](https://thecharterdesk.com).
+Live yacht charter inventory for AI assistants: 9,000+ sailboats, catamarans, motor yachts, gulets and houseboats from 800+ operators in 50 countries, with live prices, real availability and deals. Ask for a boat by place, dates and group size, compare prices, and request a written quote from [The Charter Desk](https://thecharterdesk.com).
 
 - **Endpoint:** `https://thecharterdesk.com/mcp` (Streamable HTTP, remote, nothing to install)
 - **Docs:** [thecharterdesk.com/mcp/docs](https://thecharterdesk.com/mcp/docs), generated from the server itself
